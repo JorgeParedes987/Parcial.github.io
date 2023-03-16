@@ -49,6 +49,7 @@ p{
   .texto {
     
     text-align: justify;
+    white-space: pre-line;
   }
   
   
@@ -58,6 +59,12 @@ p{
     display: flex;
     justify-content:center;
   }  
+  .imagen3{
+    height: 400px;
+    margin:0;
+    display: flex;
+    justify-content:center;
+  }
   footer {
     text-align: center;
     background-color: #ff0000;
