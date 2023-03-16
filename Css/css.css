@@ -47,7 +47,7 @@ p{
     padding: 10px;
   }
   .texto {
-    margin-left: 20px;
+    
     text-align: justify;
   }
   
@@ -58,3 +58,11 @@ p{
     display: flex;
     justify-content:center;
   }  
+  footer {
+    text-align: center;
+    background-color: #ff0000;
+    color: #fff;
+    padding: 40px;
+    font-size: 40px;
+  
+  }
